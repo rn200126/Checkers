@@ -1,0 +1,10 @@
+CandidateNo 220882
+University of Sussex December 2021
+
+This zip file contains the solution for the Knowledge & Reasoning module's Checker assignment. 
+
+The folder contains a src file with all the classes, a resource file for the images used on the board, folders
+with other used assets and an executable JAR file. 
+
+This program was coded using IntelliJ and was written with Java. 
+
